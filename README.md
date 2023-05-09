@@ -1,2 +1,7 @@
-# SimpletonAgents-VerseGenerator
-This script uses three custom agents to create refined verse in a simple serial chat style in the style of Italo Calvino. Each agent is prompted with a role and temperature setting to facilitate their respective role.
+Introduction
+Simpleton: Verse Generator is built using OpenAI's GPT-3.5-turbo chat model, which facilitates a simulated interaction between three agents:
+
+Poet: Creates a short poem in the style of Italo Calvino.
+Translator: Translates the poem into another language or provides an interpretation of the poem.
+Editor: Reviews the poem and provides feedback or suggestions for improvement.
+By simulating conversations between these agents, Simpleton: Verse Generator allows users to explore the creative potential of AI-generated poetry while gaining insights into the translation and editing processes.
