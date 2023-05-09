@@ -1,5 +1,4 @@
-Introduction
-Simpleton: Verse Generator is built using OpenAI's GPT-3.5-turbo chat model, which facilitates a simulated interaction between three agents:
+The Simpleton Agents Verse Generator is built using OpenAI's GPT-3.5-turbo chat model, which facilitates a simulated interaction between three agents:
 
 Poet: Creates a short poem in the style of Italo Calvino.
 Translator: Translates the poem into another language or provides an interpretation of the poem.
